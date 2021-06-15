@@ -5,3 +5,11 @@ data/criticas_copia.csv
 data/sentiment140.csv
 data/testdata.manual.2009.06.14.csv
 data/trainingandtestdata.zip
+data/sentiment labelled sentences.zip
+data/amazon_cells_labelled.txt
+data/imdb_labelled.txt
+data/readme.txt
+data/yelp_labelled.txt
+data/sentiment_analysis/amazon_cells_labelled.txt
+data/sentiment_analysis/imdb_labelled.txt
+data/sentiment_analysis/yelp_labelled.txt
