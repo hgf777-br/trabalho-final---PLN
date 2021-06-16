@@ -13,3 +13,4 @@ data/yelp_labelled.txt
 data/sentiment_analysis/amazon_cells_labelled.txt
 data/sentiment_analysis/imdb_labelled.txt
 data/sentiment_analysis/yelp_labelled.txt
+modelo_mlp.hdf5
